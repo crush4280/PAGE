@@ -1,0 +1,2 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{G as r,K as n,L as c,M as s,ag as d,O as a}from"./@vue-BKqzYTBL.js";const l={class:"parking-page"},p={__name:"Parking",setup(_){return(i,e)=>{const t=d("el-card");return r(),n("div",l,[c(t,{class:"page-header"},{header:s(()=>[...e[0]||(e[0]=[a("div",{class:"card-header"},[a("span",null,"停车管理")],-1)])]),default:s(()=>[e[1]||(e[1]=a("div",{class:"content"},[a("p",null,"停车管理功能正在开发中...")],-1))]),_:1})])}}},u=o(p,[["__scopeId","data-v-1cd50f6f"]]);export{u as default};
+//# sourceMappingURL=Parking-CdQsrC_9.js.map

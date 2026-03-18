@@ -1,0 +1,2 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{G as r,K as n,L as c,M as a,ag as d,O as s}from"./@vue-BKqzYTBL.js";const l={class:"users-page"},p={__name:"Users",setup(_){return(m,e)=>{const t=d("el-card");return r(),n("div",l,[c(t,{class:"page-header"},{header:a(()=>[...e[0]||(e[0]=[s("div",{class:"card-header"},[s("span",null,"用户管理")],-1)])]),default:a(()=>[e[1]||(e[1]=s("div",{class:"content"},[s("p",null,"用户管理功能正在开发中...")],-1))]),_:1})])}}},f=o(p,[["__scopeId","data-v-2c2f9197"]]);export{f as default};
+//# sourceMappingURL=Users-BfrIlQKx.js.map

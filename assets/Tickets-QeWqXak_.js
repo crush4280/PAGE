@@ -1,0 +1,2 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{G as r,K as c,L as n,M as t,ag as d,O as s}from"./@vue-BKqzYTBL.js";const l={class:"tickets-page"},p={__name:"Tickets",setup(_){return(i,e)=>{const a=d("el-card");return r(),c("div",l,[n(a,{class:"page-header"},{header:t(()=>[...e[0]||(e[0]=[s("div",{class:"card-header"},[s("span",null,"工单系统")],-1)])]),default:t(()=>[e[1]||(e[1]=s("div",{class:"content"},[s("p",null,"工单系统功能正在开发中...")],-1))]),_:1})])}}},f=o(p,[["__scopeId","data-v-6347e816"]]);export{f as default};
+//# sourceMappingURL=Tickets-QeWqXak_.js.map

@@ -1,0 +1,2 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{G as r,K as l,L as n,M as s,ag as c,O as a}from"./@vue-BKqzYTBL.js";const d={class:"alarms-page"},p={__name:"Alarms",setup(_){return(m,e)=>{const t=c("el-card");return r(),l("div",d,[n(t,{class:"page-header"},{header:s(()=>[...e[0]||(e[0]=[a("div",{class:"card-header"},[a("span",null,"告警中心")],-1)])]),default:s(()=>[e[1]||(e[1]=a("div",{class:"content"},[a("p",null,"告警中心功能正在开发中...")],-1))]),_:1})])}}},f=o(p,[["__scopeId","data-v-1eee8409"]]);export{f as default};
+//# sourceMappingURL=Alarms-T4rrq9_y.js.map

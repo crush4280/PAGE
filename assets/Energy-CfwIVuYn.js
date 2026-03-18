@@ -1,0 +1,2 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{G as r,K as n,L as c,M as s,ag as d,O as a}from"./@vue-BKqzYTBL.js";const l={class:"energy-page"},p={__name:"Energy",setup(_){return(m,e)=>{const t=d("el-card");return r(),n("div",l,[c(t,{class:"page-header"},{header:s(()=>[...e[0]||(e[0]=[a("div",{class:"card-header"},[a("span",null,"能源管理")],-1)])]),default:s(()=>[e[1]||(e[1]=a("div",{class:"content"},[a("p",null,"能源管理功能正在开发中...")],-1))]),_:1})])}}},u=o(p,[["__scopeId","data-v-264f2fe1"]]);export{u as default};
+//# sourceMappingURL=Energy-CfwIVuYn.js.map
