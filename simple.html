@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>智慧园区测试</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        #app { background: #f0f0f0; padding: 20px; min-height: 200px; }
+    </style>
+</head>
+<body>
+    <h1>智慧园区管理平台</h1>
+    <div id="app">
+        <p>如果看到这段文字，说明HTML正常加载。</p>
+        <p>正在加载Vue应用...</p>
+    </div>
+    <script>
+        console.log('Simple HTML loaded successfully');
+        // 简单的Vue测试
+        setTimeout(() => {
+            document.getElementById('app').innerHTML += '<p>JavaScript执行正常！</p>';
+        }, 1000);
+    </script>
+</body>
+</html>
