@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>智慧园区管理平台 - 页面未找到</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f5f7fa;
+        }
+        .error-container {
+            text-align: center;
+        }
+        .error-code {
+            font-size: 64px;
+            color: #409eff;
+            margin-bottom: 20px;
+        }
+        .error-message {
+            font-size: 18px;
+            color: #666;
+            margin-bottom: 30px;
+        }
+        .back-home {
+            padding: 10px 20px;
+            background: #409eff;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: background 0.3s;
+        }
+        .back-home:hover {
+            background: #337ecc;
+        }
+    </style>
+</head>
+<body>
+    <div class="error-container">
+        <div class="error-code">404</div>
+        <div class="error-message">页面未找到</div>
+        <a href="/" class="back-home">返回首页</a>
+    </div>
+    <script>
+        // 如果是SPA应用，重定向到根路径
+        if (window.location.pathname !== '/') {
+            window.location.replace('/');
+        }
+    </script>
+</body>
+</html>
